@@ -1,0 +1,15 @@
+1
+GeorgeProfessorMan
+Lecturer
+Math
+-
+2
+ThatOneOtherProfessor
+AssociateProfessor
+English
+-
+3
+Lizard
+Assistant
+ComputerScience
+-
